@@ -17,5 +17,5 @@
     docker-compose up --build -d
     ```
 
-3. Access `http://localhost` and `http://localhost:8080` for API Gateway
+3. Access `http://localhost` for user interface
 4. Register an account and enjoy exploring
